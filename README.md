@@ -1,6 +1,6 @@
 # 🏄‍♂️ Sedera Rafalimanana
 
-**UI/UX Designer | Front-End Developer | Aspiring Data Analyst**  
+**`UI/UX Designer | Front-End Developer | Aspiring Data Analyst`**  
 
 I'm a Malagasy developer and designer, transforming ideas into functional and visually appealing digital experiences. I manage every step—from planning and design to coding and solving real-world problems with creativity.
 
