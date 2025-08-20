@@ -1,3 +1,5 @@
+![Welcome GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
 # 🏄‍♂️ Sedera Rafalimanana
 
 **UI/UX Designer | Front-End Developer | Aspiring Data Analyst**  
@@ -38,6 +40,3 @@ I'm a Malagasy developer and designer, transforming ideas into functional and vi
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br /><br />
-
-![Sedera's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedera&show_icons=true&theme=radical)
-
