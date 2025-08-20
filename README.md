@@ -1,5 +1,3 @@
-![Welcome GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-
 # 🏄‍♂️ Sedera Rafalimanana
 
 **UI/UX Designer | Front-End Developer | Aspiring Data Analyst**  
@@ -7,6 +5,12 @@
 I'm a Malagasy developer and designer, transforming ideas into functional and visually appealing digital experiences. I manage every step—from planning and design to coding and solving real-world problems with creativity.
 
 ---
+
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-skyblue?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### 🖌️ Design & Front-End
 <img align="left" alt="NextJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
